@@ -1,0 +1,113 @@
+{
+ "description": "Только шум: агент не должен ничего отправлять",
+ "chats": {
+  "Demo: учебная группа": [
+   {
+    "id": 201,
+    "date": "2026-10-12 10:00",
+    "from": "Дима",
+    "text": "доброе утро",
+    "reply_to": null,
+    "media": null
+   },
+   {
+    "id": 202,
+    "date": "2026-10-12 10:00",
+    "from": "Катя",
+    "text": "",
+    "reply_to": null,
+    "media": "sticker"
+   },
+   {
+    "id": 203,
+    "date": "2026-10-12 10:00",
+    "from": "Саша",
+    "text": "кто взял мой зонт вчера",
+    "reply_to": null,
+    "media": null
+   },
+   {
+    "id": 204,
+    "date": "2026-10-12 10:00",
+    "from": "Женя",
+    "text": "не я",
+    "reply_to": null,
+    "media": null
+   },
+   {
+    "id": 205,
+    "date": "2026-10-12 10:00",
+    "from": "Саша",
+    "text": "",
+    "reply_to": null,
+    "media": "photo"
+   },
+   {
+    "id": 206,
+    "date": "2026-10-12 10:00",
+    "from": "Дима",
+    "text": "ахаха",
+    "reply_to": null,
+    "media": null
+   },
+   {
+    "id": 207,
+    "date": "2026-10-12 10:00",
+    "from": "Катя",
+    "text": "пойдём сегодня в кино?",
+    "reply_to": null,
+    "media": null
+   },
+   {
+    "id": 208,
+    "date": "2026-10-12 10:00",
+    "from": "Женя",
+    "text": "го",
+    "reply_to": 207,
+    "media": null
+   },
+   {
+    "id": 209,
+    "date": "2026-10-12 10:00",
+    "from": "Саша",
+    "text": "",
+    "reply_to": null,
+    "media": "sticker"
+   },
+   {
+    "id": 210,
+    "date": "2026-10-12 10:00",
+    "from": "Дима",
+    "text": "кажется, завтра пару отменят, но это неточно",
+    "reply_to": null,
+    "media": null
+   },
+   {
+    "id": 211,
+    "date": "2026-10-12 10:00",
+    "from": "Катя",
+    "text": "откуда инфа?",
+    "reply_to": 210,
+    "media": null
+   },
+   {
+    "id": 212,
+    "date": "2026-10-12 10:00",
+    "from": "Дима",
+    "text": "просто так кажется",
+    "reply_to": null,
+    "media": null
+   },
+   {
+    "id": 213,
+    "date": "2026-10-12 10:00",
+    "from": "Женя",
+    "text": "спасибо всем)",
+    "reply_to": null,
+    "media": null
+   }
+  ]
+ },
+ "important": [],
+ "acceptable": []
+}
